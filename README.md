@@ -15,4 +15,4 @@ A beginner NumPy project for employee salary analysis.
 - NumPy
 
 ## Author
-Your Name
+Mohammed Hafeez
